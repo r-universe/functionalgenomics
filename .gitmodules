@@ -5,3 +5,6 @@
 [submodule "atena"]
 	path = atena
 	url = https://github.com/functionalgenomics/atena
+[submodule "gDNAx"]
+	path = gDNAx
+	url = https://github.com/functionalgenomics/gdnax
